@@ -1,0 +1,5 @@
+*.bat text eol=crlf
+*.cpp text eol=lf
+*.c text eol=lf
+*.java text eol=lf
+*.md text eol=lf
